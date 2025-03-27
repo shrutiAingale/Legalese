@@ -1,2 +1,15 @@
 # Legalese
-a Legal Document Assistance Tool that helps users simplify, analyze, and extract key information from legal texts. It includes functionalities such as text summarization, translation, entity recognition, sentiment analysis, and optical character recognition (OCR) for processing legal documents.
+Legal Document Assistance Tool
+This project provides an AI-powered solution to help users handle complex legal documents with ease. It offers:
+
+Text Summarization – Extracts key points from lengthy legal documents.
+
+Translation – Converts legal text into multiple languages.
+
+Named Entity Recognition (NER) – Identifies important legal terms, entities, and references.
+
+Sentiment Analysis – Evaluates the tone and intent behind legal texts.
+
+OCR (Optical Character Recognition) – Extracts text from scanned legal documents and PDFs.
+
+🔗 Tech Stack: Python, NLP (spaCy, NLTK), OCR (Tesseract), Transformers, Deep Learning, GUI (Tkinter)
